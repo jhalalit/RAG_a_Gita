@@ -1,5 +1,5 @@
 # RAG_a_Gita
-This is a GenAI based contextualized chatbot app created using:
+This is a GenAI RAG (Retrieval Augmented Generation) based contextualized chatbot app created using:
 >> Gradio for the app
 >> OpenAI embedding model for local document embeddings
 >> Pinecone vector database for storing the local document embeddings
